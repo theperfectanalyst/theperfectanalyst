@@ -1,4 +1,11 @@
-## Hi there 👋
+#### Hi, I'm Abiodun Olasanmi
+
+#### Data Analyst | Applied Machine Learning Specialist | Data Instructor
+I'm passionate about solving business problems with innovative, story-driven reporting. i thrive on turning raw data into impactful dashboards that support better decision-making, and i enjoy working with large, diverse datasets to uncover meaningful patterns and trends. 
+
+#### What I Do
+##### Data Analysis & Insights
+
 
 <!--
 **theperfectanalyst/theperfectanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
